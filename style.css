@@ -1,0 +1,154 @@
+*{
+    
+    font-family: Verdana,Helvetica,Arial,sans-serif;
+
+}
+.co{
+    background-image: url(https://www.everycountryintheworld.com/wp-content/uploads/kate-e1618255331269.jpg);
+    width:100%;
+   
+    height:700px;
+    background-size: cover;
+    padding:5px;
+}
+ 
+#col{
+    width: 400px;
+    height: 650px;
+    background-color: white;
+    margin: 20px;
+}
+ #col p{
+    font-size: 20px;
+    margin: 20px;
+    margin-left: 30px;
+ }
+
+ h1{
+font-size: 30px;
+    margin: 30px;
+    padding-top: 10px;
+}
+.btn1{
+    border-radius: 3px;
+    background-color: #ff69b4;
+    width: 200px;
+    height: 50px;
+    margin-left: 20px;
+    padding-bottom: 40px;
+    margin-top: 30px;
+    color: white;
+}
+.row{
+    background-color: #ff69b4;
+ width:100%;
+   
+    height:100px;
+    background-size: cover;
+    padding:5px;
+margin-left: 1px;
+margin-top: 2px;
+display: flex;
+
+
+}
+.col{
+    margin: 30px;
+}
+
+#name{
+    width: 200px;
+    height: 40px;
+    border-radius: 0%;
+    align-items: center;
+    margin-top: -60px;
+    margin-left: 550px;
+
+    
+    
+}
+#mail{
+    width: 200px;
+    height: 40px;
+    border-radius: 0%;
+    margin-top: -60px;
+
+
+    
+}
+#btn2{
+    width: 100px;
+    color: #ff69b4;
+    margin-top: -60px;
+
+    height: 40px;
+
+}
+.row #p1{
+    margin-top: 30px;
+    margin-left: 150px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    font-style: normal;
+
+}
+.card{
+    height: 400px;
+    margin-top: 5%;
+    
+}
+#row2{
+    background-color: white;
+}
+ #img2 img{
+    border-radius: 10px;
+ }
+
+ #img2 img:hover{
+    opacity: 75%;
+    background-color: black;
+
+
+ }
+
+
+ .overlay{
+    position: absolute;
+    margin-top: -15%;
+    margin-left: 10%;
+ }
+#row3{
+    background-color:white;
+}
+#btn3{
+    width: 300px;
+   margin-left: 35%;
+   background-color: #ff69b4;
+   color: white;
+}
+#row4{
+    margin-top: 30px;
+    background-color: white;
+}
+#paris:hover{
+opacity: 75%;
+}
+#paris h2:hover{
+    color: rgb(0, 0, 0);
+
+}
+#new{
+    text-align: center;
+    margin-left: -50%;
+}
+#row5{
+    background-color: white;
+}
+#aa{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background-color: rgb(47, 45, 45);
+
+}
